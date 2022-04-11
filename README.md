@@ -11,7 +11,7 @@ I’m currently working on monoGames which includes a gaming metaverse, monoSol 
 This is the list of ideas and projects I envision for monoGames:
 
 <ul>
-  <li>Introduction To monoGames</li>
+  <li><a href="https://github.com/369gtech/monoGames/blob/main/Introduction%20To%20monoGames">Introduction To monoGames</a></li>
   <li>Team</li>
   <li>Roadmap</li>
   <li>Community Social Networks</li>
