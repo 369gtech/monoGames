@@ -23,31 +23,31 @@ This is the list of ideas and projects I envision for monoGames:
   <li>Game Expansions</li>
   <li>Alpha monoMetavers</li>
   <li>Beta monoMetavers</li>
-  <li>Factions & Faction Alliances</li>
+  <li>Avatar</li>
+  <li>Factions</li>
+  <li>Faction Alliances</li>
   <li>Faction Matrix</li>
   <li>Inter-Faction Tournaments</li>
   <li>Open-Faction Tournaments</li>
   <li>Daily & End Of Season Faction Rewards</li>
   <li>Faction Forums</li>
   <li>Faction Council Representatives</li>
-  <li>Faction Merchandise</li>
+  <li>Faction monoMerch</li>
   <li>NFT</li>
   <li>Community NFT Art</li>
   <li>Community NFT Comic Book (1st Edition, Weekly Game and Story Line)</li>
-  <li>Portal Faction Land Packages</li>
-  <li>NFT Market Place</li>
+  <li>Portal Faction monoLand Packages</li>
+  <li>NFT monoMarket Place</li>
   <li>NFT Renting</li>
-  <li>NFT Staking</li>
-  <li>How too's</li>
   <li>Support (Q&A, Tutorials and Abuse)</li>
   <li>Promoting & Giveaways</li>
   <li>Tokenomics</li>
   <li>Contact Us</li>
   <li>Partnerships</li>
   <li>Sponsors</li>
+  <li>Mobile</li>
   <li>Open Source License</li>
   <li>Scheduled Maintenance</li>
-  <li>Mobile</li>
   <li>Sustainability</li>
   <li>Disclaimer</li>
 </ul>  
