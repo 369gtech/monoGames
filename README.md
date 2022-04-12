@@ -38,7 +38,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames-Merchandise">monoGames Merchandise</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-s">monoGames NFT's</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-Creative-Art-Community">monoGames NFT Creative Art Community</a></li>
-  <li><a href="monoGames NFT Comic Book (1st Edition, Weekly Games and Story Line)">monoGames NFT Comic Book (1st Edition, Weekly Games and Story Line)</a></li>
+  <li><a href="https://github.com/369gtech/monoGames-NFT-Comic-Book-1st-Edition-Weekly-Games-and-Story-Line-">monoGames NFT Comic Book (1st Edition, Weekly Games and Story Line)</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-Market-Place">monoGames NFT Market Place</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Support%20(Q%26A%2C%20Tutorials%20and%20Abuse)">Support (Q&A, Tutorials and Abuse)</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Promoting%20%26%20Giveaways">Promoting & Giveaways</a></li>
