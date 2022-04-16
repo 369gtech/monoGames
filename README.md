@@ -1,4 +1,4 @@
-<h1><strong>monoGames</strong></h1>
+<h1><strong>Introduction To monoGames</strong></h1>
 
 <p align="center"> 
 <a href="https://discord.gg/GUPh9PK8"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
@@ -11,7 +11,7 @@ I’m currently working on monoGames which includes a gaming metaverse, monoSol 
 This is the list of ideas and projects I envision for monoGames:
 
 <ul>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/Introduction%20To%20monoGames">Introduction To monoGames</a></li>
+  <li><a href="https://github.com/369gtech/monoGames">Introduction To monoGames</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/monoTeam">monoTeam</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Roadmap">monoGames Roadmap</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Social-Networks">monoSol (The monoGames Social Media Network)</a></li>
