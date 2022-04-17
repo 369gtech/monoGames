@@ -1,7 +1,7 @@
 <h1><strong>Introduction To monoGames</strong></h1>
 
 <p align="center"> 
-<a href="https://discord.gg/GUPh9PK8"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/7mp3vy7y"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
 
