@@ -54,7 +54,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Support%20(Q%26A%2C%20Tutorials%20and%20Abuse)">Support (Q&A, Tutorials and Abuse)</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Promoting%20%26%20Giveaways">Promoting & Giveaways</a></li>
   <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/MIT%20License">Open Source License</a></li>
+  <li><a href="https://github.com/369gtech/monoGames/blob/main/MIT%20License">MIT License</a></li>
   <li><a href="https://github.com/369gtech/Contact-Us">Contact Us</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Partnerships">Partnerships</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Sponsors">Sponsors</a></li>
