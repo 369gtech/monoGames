@@ -1,1 +1,27 @@
-The monoTeam 
+<html>
+<h1>The monoTeam</h1>
+<h3>Founder Steven Mcleod</h3>
+<p>This is the monoTeam yet</p>
+<ol>
+<li>Operations Team
+<ol>
+<li>Project Manager</li>
+<li>Cheif Finacial Officer</li>
+<li>Marketing</li>
+<li>Head Designer</li>
+<li>Head Author</li>
+<li>Human Resources</li>
+</ol>
+</li>
+<li>Dev Team
+<ol>
+<li>Font End Dev</li>
+<li>Back End Dev</li>
+<li>Mobile Dev</li>
+<li>Dev</li>
+<li>Dev</li>
+<li>Security</li>
+</ol>
+</li>
+</ol>
+</html>
