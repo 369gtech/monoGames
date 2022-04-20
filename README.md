@@ -35,7 +35,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/Alpha-monoMetavers">Alpha monoGames Metaverse</a></a></li>
   <li><a href="https://github.com/369gtech/Beta-monoMetavers">Beta monoGames Metaverse</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/monoGame%20Expansions">monoGame Expansions</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/monoAvatar">monoAvatar</a></li>
+  <li><a href="https://github.com/369gtech/monoAvatar">monoAvatar</a></li>
   <li><a href="https://github.com/369gtech/monoAvatar-Matrix">monoAvatar Matrix</a></li>  
   <li><a href="https://github.com/369gtech/Factions">Factions</a></li>
   <li><a href="https://github.com/369gtech/Faction-Alliances">Faction Alliances</a></li>
