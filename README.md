@@ -43,7 +43,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/Open-Faction-Tournaments">Open-Faction Tournaments</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Daily%20Faction%20Rewards">Daily Faction Rewards</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/End%20Of%20Season%20Faction%20Rewards">End Of Season Faction Rewards</a></li>
-  <li><a href="https://github.com/369gtech/Faction-Forums">Faction Forums</a></li>
+  <li><a href="https://github.com/369gtech/Faction-Forum-Lounges">Faction Forum Lounges</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Faction%20Council%20Representatives">Faction Council Representatives</a></li>
   <li><a href="https://github.com/369gtech/Portal-Faction-Land-Packages">Portal Faction Land Packages</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Merchandise">monoGames Merchandise</a></li>
