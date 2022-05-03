@@ -1,7 +1,7 @@
 <h1><strong>Introduction To monoGames</strong></h1>
 
 <p align="center"> 
-<a href="https://discord.gg/WBSYkwAT"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://discord.gg/5V4Y7y2gwV"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
 
@@ -23,7 +23,7 @@ We want to incorporate tokenomics and governance tokens for a wide variety of in
 
 We want to bring special features like monoTomicGold for special limited addition nft’s and special power up abilities, reward tokens like nftcryptomix for special nft reward packs which include exclusive reward nft’s, Portal Land Packages exclusively for each Faction to build out with exclusive staking nft’s which connect to your comic book and if your lucky to the main game comic book too, Top 10 Ranked Faction v’s Faction winner takes all competition with Super Rare Nft’s and Tokens and we have lots of other special features that will come as monoGames evolves.
 
-Finally we are open to ideas and if you have any then please reach out to our <a href="https://discord.gg/WBSYkwAT">discord</a> and let us know, we would love the feed back because monoGames is more than just games "were building a sustainable gaming ecosystem together with our ever evolving community".
+Finally we are open to ideas and if you have any then please reach out to our <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and let us know, we would love the feed back because monoGames is more than just games "were building a sustainable gaming ecosystem together with our ever evolving community".
 
 This is the list of ideas and projects I envision for monoGames:
 
@@ -70,4 +70,4 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Disclaimer">Disclaimer</a></li>
 </ul>  
 
-This List is open to change as the project evolves and their is more community involvement in the direction of monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/WBSYkwAT">discord</a> and we can talk about the role(s) you would to help with. All helpers would receive reward tokens, nft's and would probably be on the monoGames council where you will have an official role in our game.
+This List is open to change as the project evolves and their is more community involvement in the direction of monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we can talk about the role(s) you would to help with. All helpers would receive reward tokens, nft's and would probably be on the monoGames council where you will have an official role in our game.
