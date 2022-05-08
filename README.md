@@ -65,7 +65,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Partnerships">Partnerships</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Sponsors">Sponsors</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Mobile">monoGames Mobile</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/Sustainability">Sustainability</a></li>
+  <li><a href="https://github.com/369gtech/Sustainability">Sustainability</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Scheduled%20Maintenance">Scheduled Maintenance</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Disclaimer">Disclaimer</a></li>
 </ul>  
