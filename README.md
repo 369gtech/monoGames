@@ -67,7 +67,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames-Mobile">monoGames Mobile</a></li>
   <li><a href="https://github.com/369gtech/Sustainability">Sustainability</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Scheduled%20Maintenance">Scheduled Maintenance</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/Disclaimer">Disclaimer</a></li>
+  <li><a href="https://github.com/369gtech/Disclaimer">Disclaimer</a></li>
 </ul>  
 
 This List is open to change as the project evolves and their is more community involvement in the direction of monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we can talk about the role(s) you would to help with. All helpers would receive reward tokens, nft's and would probably be on the monoGames council where you will have an official role in our game.
