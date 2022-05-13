@@ -29,7 +29,7 @@ This is the list of ideas and projects I envision for monoGames:
 
 <ul>
   <li><a href="https://github.com/369gtech/monoGames">Introduction To monoGames</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/monoTeam">monoTeam</a></li>
+  <li><a href="https://github.com/369gtech/monoTeam">monoTeam</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Roadmap">monoGames Roadmap</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Social-Networks">monoSol (The monoGames Social Media Network)</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/New%20monoGame%20Ideas">New monoGame Ideas</a></li>
