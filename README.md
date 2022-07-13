@@ -56,7 +56,6 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/Faction-Social-Lounges">Faction Social Lounges</a></li>
   <li><a href="https://github.com/369gtech/Personal-Land-Packages">Personal Land Packages</a></li>
   <li><a href="https://github.com/369gtech/Faction-Council-Representatives">Faction Council Representatives</a></li>
-  <li><a href="https://github.com/369gtech/Portal-Faction-Land-Packages">Portal Faction Land Packages</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Merchandise">monoGames Merchandise</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-s">monoGames NFT's</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-Creative-Art-Community">monoGames NFT Creative Art Community</a></li>
