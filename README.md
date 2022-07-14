@@ -32,14 +32,16 @@ This is the list of ideas and projects I envision for monoGames:
 <ul>
   <li><a href="https://github.com/369gtech/monoGames">Introduction To monoGames</a></li>
   <li><a href="https://github.com/369gtech/monoTeam">monoTeam</a></li>
+  <li><a href="https://github.com/369gtech/monoGames-Sustainability">monoGames Sustainability</a></li>
+  <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
   <li><a href="https://github.com/369gtech/Alpha-monoGames">Alpha monoGames</a></li>
+  <li><a href="https://github.com/369gtech/Alpha-Missions">Alpha monoGames Missions</a></li>
   <li><a href="https://github.com/369gtech/Beta-monoGames">Beta monoGames</a></li>
-  <li><a href="https://github.com/369gtech/Alpha-Missions">Alpha monoGame Missions</a></li>
-  <li><a href="https://github.com/369gtech/Beta-Missions">Beta monoGame Missions</a></li>
-  <li><a href="https://github.com/369gtech/Alpha-monoMetavers">Alpha monoGames Metaverse</a></a></li>
-  <li><a href="https://github.com/369gtech/Alpha-monoGames-Metaverse-Prologue">Alpha monoGames Metaverse Prologue</a></li>
-  <li><a href="https://github.com/369gtech/Beta-monoMetavers">Beta monoGames Metaverse</a></li>
-  <li><a href="https://github.com/369gtech/monoGames/blob/main/monoGame%20Expansions">monoGame Expansions</a></li>
+  <li><a href="https://github.com/369gtech/Beta-Missions">Beta monoGames Missions</a></li>
+  <li><a href="https://github.com/369gtech/monoGames-Expansion">monoGames Expansion</a></li>
+  <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game-Prologue">Destiny Of The Universe Game Prologue</a></li>
+  <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game">Destiny Of The Universe Game</a></li>
+  <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Missions">Destiny Of The Universe Missions</a></li>
   <li><a href="https://github.com/369gtech/monoAvatar">monoAvatar</a></li>
   <li><a href="https://github.com/369gtech/monoAvatar-Matrix">monoAvatar Matrix</a></li>  
   <li><a href="https://github.com/369gtech/Factions">Factions</a></li>
@@ -60,7 +62,6 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames-NFT-Market-Place">monoGames NFT Market Place</a></li>
   <li><a href="https://github.com/369gtech/Support-Q-A-Tutorials-and-Abuse-">Support (Q&A, Tutorials and Abuse)</a></li>
   <li><a href="https://github.com/369gtech/Promotions-Giveaways">Promotions & Giveaways</a></li>
-  <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Roadmap">monoGames Roadmap</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/New%20monoGame%20Ideas">New monoGame Ideas</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/MIT%20License">MIT License</a></li>
@@ -68,7 +69,6 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Partnerships">Partnerships</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Sponsors">Sponsors</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Mobile">monoGames Mobile</a></li>
-  <li><a href="https://github.com/369gtech/Sustainability">Sustainability</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Scheduled%20Maintenance">Scheduled Maintenance</a></li>
   <li><a href="https://github.com/369gtech/Disclaimer">Disclaimer</a></li>
 </ul>  
