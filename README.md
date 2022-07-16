@@ -34,6 +34,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoTeam">monoTeam</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Sustainability-monoGreen-">monoGames Sustainability (monoGreen)</a></li>
   <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
+  <li><a href="https://github.com/369gtech/monoGames-Developers">monoGames Developers</a></li>
   <li><a href="https://github.com/369gtech/Alpha-monoGames">Alpha monoGames</a></li>
   <li><a href="https://github.com/369gtech/Alpha-Missions">Alpha monoGames Missions</a></li>
   <li><a href="https://github.com/369gtech/Beta-monoGames">Beta monoGames</a></li>
