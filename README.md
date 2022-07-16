@@ -36,9 +36,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Developers">monoGames Developers</a></li>
   <li><a href="https://github.com/369gtech/Alpha-monoGames">Alpha monoGames</a></li>
-  <li><a href="https://github.com/369gtech/Alpha-Missions">Alpha monoGames Missions</a></li>
   <li><a href="https://github.com/369gtech/Beta-monoGames">Beta monoGames</a></li>
-  <li><a href="https://github.com/369gtech/Beta-Missions">Beta monoGames Missions</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Expansion">monoGames Expansion</a></li>
   <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game-Prologue">Destiny Of The Universe Game Prologue</a></li>
   <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Game">Destiny Of The Universe Game</a></li>
