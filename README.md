@@ -44,7 +44,6 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Inter-Faction-Tournaments">Destiny Of The Universe Inter-Faction Tournaments</a></li>
   <li><a href="https://github.com/369gtech/Destiny-Of-The-Universe-Open-Faction-Tournaments">Destiny Of The Universe Open-Faction Tournaments</a></li>
   <li><a href="https://github.com/369gtech/Daily-Faction-Rewards">Daily Faction Rewards</a></li>
-  <li><a href="https://github.com/369gtech/End-Of-Season-Faction-Rewards">End Of Season Faction Rewards</a></li>
   <li><a href="https://github.com/369gtech/monoAvatar">monoAvatar</a></li>
   <li><a href="https://github.com/369gtech/monoAvatar-Matrix">monoAvatar Matrix</a></li>  
   <li><a href="https://github.com/369gtech/Factions">Factions</a></li>
