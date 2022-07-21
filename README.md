@@ -29,6 +29,8 @@ This is the list of ideas and projects I envision for monoGames:
 
 <ul>
   <li><a href="https://github.com/369gtech/monoGames">Introduction To monoGames</a></li>
+  <li><a href="https://github.com/369gtech/Disclaimer">Disclaimer</a></li>
+  <li><a href="https://github.com/369gtech/White-Paper">White Paper</a></li>
   <li><a href="https://github.com/369gtech/monoTeam">monoTeam</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Sustainability-monoGreen-">monoGames Sustainability (monoGreen)</a></li>
   <li><a href="https://github.com/369gtech/Tokenomics">Tokenomics</a></li>
@@ -55,6 +57,7 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames-NFT-Creative-Art-Community">monoGames NFT Creative Art Community</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-Comic-Book-1st-Edition-Weekly-Games-and-Story-Line-">monoGames NFT Comic Book (1st Edition, Weekly Games and Story Line)</a></li>
   <li><a href="https://github.com/369gtech/monoGames-NFT-Market-Place">monoGames NFT Market Place</a></li>
+  <li><a href="https://github.com/369gtech/monoGames-Security">monoGames Security</a></li>
   <li><a href="https://github.com/369gtech/Support-Q-A-Tutorials-and-Abuse-">Support (Q&A, Tutorials and Abuse)</a></li>
   <li><a href="https://github.com/369gtech/Promotions-Giveaways">Promotions & Giveaways</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Roadmap">monoGames Roadmap</a></li>
@@ -64,7 +67,6 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Sponsors">Sponsors</a></li>
   <li><a href="https://github.com/369gtech/monoGames-Mobile">monoGames Mobile</a></li>
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Scheduled%20Maintenance">Scheduled Maintenance</a></li>
-  <li><a href="https://github.com/369gtech/Disclaimer">Disclaimer</a></li>
 </ul>  
 
 This List is open to change as the project evolves and their is more community involvement in monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we can talk about the role(s) you would like to help with. All helpers would receive reward tokens, NFT's and would probably be on the monoGames council where you will have an official role in our game.
