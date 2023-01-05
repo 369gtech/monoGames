@@ -65,4 +65,4 @@ This is the list of ideas and projects I envision for monoGames:
   <li><a href="https://github.com/369gtech/monoGames/blob/main/Scheduled%20Maintenance">Scheduled Maintenance</a></li>
 </ul>  
 
-This List is open to change as the project evolves and their is more community involvement in monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we can talk about the role(s) you would like to help with. All helpers would receive reward tokens, NFT's and would probably be on the monoGames council where you will have an official role in our game.
+This List is open to change as the project evolves and there is more community involvement in monoGames. If you would like to help then please feel free to head over to the monoGames <a href="https://discord.gg/5V4Y7y2gwV">discord</a> and we can talk about the role(s) you would like to help with. All helpers would receive reward tokens, NFT's and would probably be on the monoGames council where you will have an official role in our game.
